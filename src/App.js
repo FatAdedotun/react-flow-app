@@ -5,8 +5,8 @@ import FunctionalFlow from './components/FunctionalFlow';
 function App() {
   return (
     <div className="App">
-      <CentralFlow />
-      {/* <FunctionalFlow /> */}
+      {/* <CentralFlow /> */}
+      <FunctionalFlow />
     </div>
   );
 }
